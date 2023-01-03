@@ -59,18 +59,3 @@ a{
     margin: 10px;
 }
 
-.cartoon .btn{
-    display: inline-block;
-    margin-top: auto;
-    background: green;
-    color: #fff;
-    text-align: center;
-    color: #fff;
-    padding: 10px 20px;
-    border-radius: 5px;
-    border: 1px solid rgb(180, 171, 171) ;
-    -webkit-border-radius:5px;
-    -moz-border-radius:5px;
-    -ms-border-radius:5px;
-    -o-border-radius:5px;
-}
